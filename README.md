@@ -3,7 +3,7 @@
 Projeto de análise de dados e machine learning para previsão de notas do IMDB desenvolvido para o desafio de Cientista de Dados da Indicium.
 
 ## Estrutura do Projeto
-
+```
 INDICIUM/
 ├── desafio_indicium_imdb.csv     # Dataset original com dados dos filmes
 ├── data_cleaner.py               # Funções de limpeza e preprocessamento
@@ -12,6 +12,7 @@ INDICIUM/
 ├── model_indicium.pkl            # Modelo treinado salvo
 ├── requirements.txt              # Dependências do projeto
 ├── README.md                     # Este arquivo
+```
 
 ## Como Instalar e Executar
 
