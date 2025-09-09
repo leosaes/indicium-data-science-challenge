@@ -41,10 +41,11 @@ INDICIUM/
     Navegar até model_desafio.ipynb
 
     Executar todas as células para consultar as respostas 3 e 4, transformar os dados, treinar o modelo, avaliar a performance e salvar o modelo treinado
-
+```
+```
     Para utilizar o modelo, basta seguir o código a seguir, que também está presente na última célula do notebook:
 
-    ```python
+    python
 import pickle
 import pandas as pd
 import data_cleaner
@@ -74,7 +75,7 @@ df_movie = data_cleaner.fix_dataframe(df_test,model['expected_columns'])
 IMDB_Rate = model['pipeline'].predict(df_movie)
 
 print(f"Nota do IMDB: {IMDB_Rate}")
-
+```
 ```
 
     
