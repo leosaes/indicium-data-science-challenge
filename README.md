@@ -41,8 +41,8 @@ INDICIUM/
     Navegar até model_desafio.ipynb
 
     Executar todas as células para consultar as respostas 3 e 4, transformar os dados, treinar o modelo, avaliar a performance e salvar o modelo treinado
-```
-```
+
+
     Para utilizar o modelo, basta seguir o código a seguir, que também está presente na última célula do notebook:
 
     python
